@@ -14,7 +14,7 @@ Firebase for backend services including authentication, real-time database, and 
 
 ## **Installation**
 Clone the repository:
-git clone https://github.com/yourusername/agrobazar.git
+git clone https://github.com/Tustisaini/Agrobazar.git
 
 
 Open the project in Android Studio.
